@@ -1,9 +1,11 @@
 {
   "recommendations": [
+    "aaron-bond.better-comments",
+    "eamodio.gitlens",
     "bbenoist.Nix",
-    "christian-kohler.npm-intellisense",
-    "chrmarti.regex",
     "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "yoavbls.pretty-ts-errors",
+    "SimonSiefke.svg-preview"
   ]
 }
